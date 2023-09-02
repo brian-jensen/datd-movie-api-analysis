@@ -1,14 +1,7 @@
-### Directions on How to Run the Project Locally
-<style>
-  ol > li {
-    margin: 8px 0;
-  }
-  ul {
-    padding-left: 15px;
-  }
-</style>
+### How to Run the Project Locally
+<br>
 <ol>
-  <li><strong>Clone the Repo</li></strong>
+  <li><strong>Clone the Repo</li></strong><br>
   <li><strong>Create a Virtual Environment</strong>
     <ul>
       <li><code>python3 -m venv env</code> (Mac/Linux)</li>
